@@ -18,6 +18,5 @@
 
 [去下载](https://github.com/sumver/HackVipForcomfdtune/releases)
 
-```
 ![设置](https://github.com/sumver/HackVipForcomfdtune/releases)
-```
+
